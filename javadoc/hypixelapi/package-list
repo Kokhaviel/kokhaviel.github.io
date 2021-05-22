@@ -1,7 +1,11 @@
 fr.kokhaviel.api.hypixel
 fr.kokhaviel.api.hypixel.games
+fr.kokhaviel.api.hypixel.guild
 fr.kokhaviel.api.hypixel.key
 fr.kokhaviel.api.hypixel.mojang
 fr.kokhaviel.api.hypixel.player
+fr.kokhaviel.api.hypixel.player.friends
+fr.kokhaviel.api.hypixel.recent
+fr.kokhaviel.api.hypixel.status
 fr.kokhaviel.api.hypixel.util
 fr.kokhaviel.api.hypixel.util.exceptions
